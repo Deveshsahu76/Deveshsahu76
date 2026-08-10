@@ -108,9 +108,9 @@ An interactive N-Queens puzzle game with a progressive level-based experience.
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 🌐 Portfolio: [Add your Portfolio URL]
-- 📧 Email: [Add your Email]
+- 💼 LinkedIn: [https://www.linkedin.com/in/devesh-sahu-560608270/]
+- 🌐 Portfolio: [https://deveshsahuportfolio.vercel.app/]
+- 📧 Email: [deveshsahu567@gmail.com]
 
 ---
 
