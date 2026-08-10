@@ -108,20 +108,7 @@ An interactive N-Queens puzzle game with a progressive level-based experience.
 
 ## 🎯 2026 Focus
 
-```text
-DSA                 ███████░░░  70%
-Full-Stack          ████████░░  80%
-CS Fundamentals     ██████░░░░  60%
-System Design       ████░░░░░░  40%
-Communication       ██████░░░░  60%
 
-## 🔭 Currently Working On
-
-- Preparing for Software Engineering placements
-- Improving Data Structures & Algorithms
-- Strengthening MERN Stack fundamentals
-- Practicing SQL and Computer Science fundamentals
-- Building better problem-solving habits
 
 ## 🤝 Connect With Me
 
@@ -168,3 +155,18 @@ I focus on building solutions that are useful, maintainable and easy to use.
 ## 📈 Contribution Graph
 
 ![Devesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deveshsahu76&hide_border=true)
+
+```text
+DSA                 ███████░░░  70%
+Full-Stack          ████████░░  80%
+CS Fundamentals     ██████░░░░  60%
+System Design       ████░░░░░░  40%
+Communication       ██████░░░░  60%
+
+## 🔭 Currently Working On
+
+- Preparing for Software Engineering placements
+- Improving Data Structures & Algorithms
+- Strengthening MERN Stack fundamentals
+- Practicing SQL and Computer Science fundamentals
+- Building better problem-solving habits
