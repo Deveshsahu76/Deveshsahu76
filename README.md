@@ -124,9 +124,6 @@ An interactive N-Queens puzzle game with a progressive level-based experience.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshsahu76&layout=compact&hide_border=true)
 
-## 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Deveshsahu76&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
