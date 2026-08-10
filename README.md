@@ -153,9 +153,12 @@ I focus on building solutions that are useful, maintainable and easy to use.
 
 ---
 
-## 🔥 Contribution Activity
+## ⚡ Currently
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Deveshsahu76&hide_border=true)
+🔭 Preparing for Software Engineering placements  
+🌱 Learning DSA & System Design  
+💻 Improving MERN Stack skills  
+🤝 Open to freelance & collaboration opportunities
 
 ## 📈 Contribution Graph
 
