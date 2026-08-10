@@ -106,6 +106,23 @@ An interactive N-Queens puzzle game with a progressive level-based experience.
 
 ---
 
+## 🎯 2026 Focus
+
+```text
+DSA                 ███████░░░  70%
+Full-Stack          ████████░░  80%
+CS Fundamentals     ██████░░░░  60%
+System Design       ████░░░░░░  40%
+Communication       ██████░░░░  60%
+
+## 🔭 Currently Working On
+
+- Preparing for Software Engineering placements
+- Improving Data Structures & Algorithms
+- Strengthening MERN Stack fundamentals
+- Practicing SQL and Computer Science fundamentals
+- Building better problem-solving habits
+
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/devesh-sahu-560608270/]
@@ -113,10 +130,27 @@ An interactive N-Queens puzzle game with a progressive level-based experience.
 - 📧 Email: [deveshsahu567@gmail.com]
 
 ---
+## 🧠 What I Bring
+
+**Problem Solving**  
+I enjoy breaking complex problems into smaller, manageable steps.
+
+**Full-Stack Development**  
+I build applications across frontend, backend and database layers.
+
+**Learning Mindset**  
+Currently strengthening DSA and core Computer Science fundamentals.
+
+**Product Thinking**  
+I focus on building solutions that are useful, maintainable and easy to use.
 
 ### 🚀 Learning. Building. Improving.
 
 ---
+
+## 🏆 GitHub Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deveshsahu76&theme=flat&no-frame=true&no-bg=true&row=1&column=6)
 
 ## 📊 GitHub Stats
 
