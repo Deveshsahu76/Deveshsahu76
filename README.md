@@ -106,15 +106,17 @@ An interactive N-Queens puzzle game with a progressive level-based experience.
 
 ---
 
-## 🎯 2026 Focus
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devesh-sahu-560608270/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome)](https://deveshsahuportfolio.vercel.app/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](deveshsahu567@gmail.com)
 
 
 
-## 🤝 Connect With Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/devesh-sahu-560608270/]
-- 🌐 Portfolio: [https://deveshsahuportfolio.vercel.app/]
-- 📧 Email: [deveshsahu567@gmail.com]
 
 ---
 ## 🧠 What I Bring
