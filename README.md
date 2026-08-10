@@ -127,3 +127,13 @@ An interactive N-Queens puzzle game with a progressive level-based experience.
 ## 🔥 Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Deveshsahu76&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 🔥 Contribution Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Deveshsahu76&hide_border=true)
+
+## 📈 Contribution Graph
+
+![Devesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deveshsahu76&hide_border=true)
