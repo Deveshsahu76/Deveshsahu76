@@ -136,6 +136,9 @@ I focus on building solutions that are useful, maintainable and easy to use.
 ### 🚀 Learning. Building. Improving.
 
 ---
+## 🏆 GitHub Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Deveshsahu76&theme=flat&no-frame=true&no-bg=true&row=1&column=6)
 
 ## 🏆 GitHub Achievements
 
